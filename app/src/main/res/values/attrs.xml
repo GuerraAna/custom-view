@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<declare-styleable name="ContextualButtonView">
+		<attr name="text_label" format="string" />
+		<attr name="icon_label" format="integer" />
+	</declare-styleable>
+</resources>
